@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Facebook",
+    "url": "https://www.facebook.com/{username}"
+  },
+  {
+    "name": "Facebook Page",
+    "url": "https://facebook.com/{username}"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://www.instagram.com/{username}"
+  },
+  {
+    "name": "X (Twitter)",
+    "url": "https://x.com/{username}"
+  },
+  {
+    "name": "YouTube (channel @)",
+    "url": "https://www.youtube.com/@{username}"
+  },
+  {
+    "name": "YouTube (user)",
+    "url": "https://www.youtube.com/user/{username}"
+  },
+  {
+    "name": "TikTok",
+    "url": "https://www.tiktok.com/@{username}"
+  },
+  {
+    "name": "Snapchat",
+    "url": "https://www.snapchat.com/add/{username}"
+  },
+  {
+    "name": "LinkedIn (public)",
+    "url": "https://www.linkedin.com/in/{username}"
+  },
+  {
+    "name": "LinkedIn (company)",
+    "url": "https://www.linkedin.com/company/{username}"
+  },
+  {
+    "name": "Pinterest",
+    "url": "https://www.pinterest.com/{username}"
+  },
+  {
+    "name": "Reddit (user)",
+    "url": "https://www.reddit.com/user/{username}"
+  },
+  {
+    "name": "Reddit (old)",
+    "url": "https://old.reddit.com/user/{username}"
+  },
+  {
+    "name": "Tumblr",
+    "url": "https://{username}.tumblr.com"
+  },
+  {
+    "name": "Medium",
+    "url": "https://medium.com/@{username}"
+  },
+  {
+    "name": "Quora",
+    "url": "https://www.quora.com/profile/{username}"
+  },
+  {
+    "name": "VK",
+    "url": "https://vk.com/{username}"
+  },
+  {
+    "name": "Odnoklassniki",
+    "url": "https://ok.ru/{username}"
+  },
+  {
+    "name": "Weibo",
+    "url": "https://weibo.com/u/{username}"
+  },
+  {
+    "name": "Douyin",
+    "url": "https://www.douyin.com/user/{username}"
+  },
+  {
+    "name": "Bilibili (space)",
+    "url": "https://space.bilibili.com/{username}"
+  },
+  {
+    "name": "Bilibili (user)",
+    "url": "https://www.bilibili.com/{username}"
+  },
+  {
+    "name": "Telegram (t.me)",
+    "url": "https://t.me/{username}"
+  },
+  {
+    "name": "Telegram (web)",
+    "url": "https://web.telegram.org/#/im?p=@{username}"
+  },
+  {
+    "name": "WhatsApp Business (wa.me)",
+    "url": "https://wa.me/{username}"
+  },
+  {
+    "name": "Discord (guild/profile links vary)",
+    "url": "https://discordapp.com/users/{username}"
+  },
+  {
+    "name": "Twitch",
+    "url": "https://www.twitch.tv/{username}"
+  },
+  {
+    "name": "Mixer (defunct)",
+    "url": "https://mixer.com/{username}"
+  },
+  {
+    "name": "Periscope (defunct)",
+    "url": "https://www.periscope.tv/{username}"
+  },
+  {
+    "name": "Dailymotion",
+    "url": "https://www.dailymotion.com/{username}"
+  },
+  {
+    "name": "Vimeo",
+    "url": "https://vimeo.com/{username}"
+  },
+  {
+    "name": "SoundCloud",
+    "url": "https://soundcloud.com/{username}"
+  },
+  {
+    "name": "Bandcamp",
+    "url": "https://{username}.bandcamp.com"
+  },
+  {
+    "name": "Mixcloud",
+    "url": "https://www.mixcloud.com/{username}"
+  },
+  {
+    "name": "Goodreads",
+    "url": "https://www.goodreads.com/{username}"
+  },
+  {
+    "name": "DeviantArt",
+    "url": "https://www.deviantart.com/{username}"
+  },
+  {
+    "name": "Flickr",
+    "url": "https://www.flickr.com/photos/{username}"
+  },
+  {
+    "name": "500px",
+    "url": "https://500px.com/{username}"
+  },
+  {
+    "name": "Imgur (user)",
+    "url": "https://imgur.com/user/{username}"
+  },
+  {
+    "name": "Pinterest Board",
+    "url": "https://pinterest.com/{username}/"
+  },
+  {
+    "name": "Nextdoor (neighbourhood pages vary)",
+    "url": "https://nextdoor.com/profile/{username}"
+  },
+  {
+    "name": "Clubhouse",
+    "url": "https://www.clubhouse.com/@{username}"
+  },
+  {
+    "name": "Mastodon (instance)",
+    "url": "https://{instance}/@{username}"
+  },
+  {
+    "name": "Threads",
+    "url": "https://www.threads.net/@{username}"
+  },
+  {
+    "name": "Rumble",
+    "url": "https://rumble.com/c/{username}"
+  },
+  {
+    "name": "Triller",
+    "url": "https://triller.co/@{username}"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/{username}"
+  },
+  {
+    "name": "GitLab",
+    "url": "https://gitlab.com/{username}"
+  },
+  {
+    "name": "Bitbucket",
+    "url": "https://bitbucket.org/{username}"
+  },
+  {
+    "name": "Gitea",
+    "url": "https://try.gitea.io/{username}"
+  },
+  {
+    "name": "SourceForge",
+    "url": "https://sourceforge.net/u/{username}"
+  },
+  {
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com/users/{username}"
+  },
+  {
+    "name": "Stack Exchange",
+    "url": "https://{site}.stackexchange.com/users/{userid}/{username}"
+  },
+  {
+    "name": "Dev.to",
+    "url": "https://dev.to/{username}"
+  },
+  {
+    "name": "Hashnode",
+    "url": "https://hashnode.com/@{username}"
+  },
+  {
+    "name": "CodePen",
+    "url": "https://codepen.io/{username}"
+  },
+  {
+    "name": "JSFiddle",
+    "url": "https://jsfiddle.net/user/{username}/"
+  },
+  {
+    "name": "Glitch",
+    "url": "https://glitch.com/@{username}"
+  },
+  {
+    "name": "Replit",
+    "url": "https://replit.com/@{username}"
+  },
+  {
+    "name": "Heroku (app)",
+    "url": "https://{username}.herokuapp.com"
+  },
+  {
+    "name": "Vercel (username.vercel.app)",
+    "url": "https://{username}.vercel.app"
+  },
+  {
+    "name": "Netlify (sites)",
+    "url": "https://{username}.netlify.app"
+  },
+  {
+    "name": "Firebase (appspot)",
+    "url": "https://{username}.appspot.com"
+  },
+  {
+    "name": "GitHub Pages (username.github.io)",
+    "url": "https://{username}.github.io"
+  },
+  {
+    "name": "GitLab Pages",
+    "url": "https://{username}.gitlab.io"
+  },
+  {
+    "name": "Surge",
+    "url": "https://{username}.surge.sh"
+  },
+  {
+    "name": "Neocities",
+    "url": "https://{username}.neocities.org"
+  },
+  {
+    "name": "Codeberg",
+    "url": "https://codeberg.org/{username}"
+  },
+  {
+    "name": "Gist (GitHub)",
+    "url": "https://gist.github.com/{username}"
+  },
+  {
+    "name": "Packagist (user)",
+    "url": "https://packagist.org/users/{username}/"
+  },
+  {
+    "name": "PyPI (maintainer)",
+    "url": "https://pypi.org/user/{username}/"
+  },
+  {
+    "name": "NPM (profile)",
+    "url": "https://www.npmjs.com/~{username}"
+  },
+  {
+    "name": "Notion (site)",
+    "url": "https://{username}.notion.site"
+  },
+  {
+    "name": "Notion (profile)",
+    "url": "https://www.notion.so/{username}"
+  },
+  {
+    "name": "Wix (site)",
+    "url": "https://{username}.wixsite.com/{username}"
+  },
+  {
+    "name": "Wix (profile)",
+    "url": "https://www.wix.com/{username}"
+  },
+  {
+    "name": "Squarespace (site)",
+    "url": "https://{username}.squarespace.com"
+  },
+  {
+    "name": "Webflow (site)",
+    "url": "https://{username}.webflow.io"
+  },
+  {
+    "name": "Weebly",
+    "url": "https://{username}.weebly.com"
+  },
+  {
+    "name": "Carrd (profile)",
+    "url": "https://carrd.co/{username}"
+  },
+  {
+    "name": "Linktree",
+    "url": "https://linktr.ee/{username}"
+  },
+  {
+    "name": "About.me",
+    "url": "https://about.me/{username}"
+  },
+  {
+    "name": "Biolinky",
+    "url": "https://biolinky.co/{username}"
+  },
+  {
+    "name": "Taplink",
+    "url": "https://taplink.at/{username}"
+  },
+  {
+    "name": "Lnk.Bio",
+    "url": "https://lnk.bio/{username}"
+  },
+  {
+    "name": "Tiktok bio pages (alternate)",
+    "url": "https://www.tiktok.com/@{username}"
+  },
+  {
+    "name": "Strikingly",
+    "url": "https://{username}.strikingly.com"
+  },
+  {
+    "name": "WordPress.com",
+    "url": "https://{username}.wordpress.com"
+  },
+  {
+    "name": "Blogger (blogspot)",
+    "url": "https://{username}.blogspot.com"
+  },
+  {
+    "name": "Google Sites (classic)",
+    "url": "https://sites.google.com/view/{username}"
+  },
+  {
+    "name": "Jimdo",
+    "url": "https://{username}.jimdosite.com"
+  },
+  {
+    "name": "AboutYou page",
+    "url": "https://aboutyou.com/{username}"
+  },
+  {
+    "name": "Etsy (shops)",
+    "url": "https://www.etsy.com/shop/{username}"
+  },
+  {
+    "name": "Etsy (people)",
+    "url": "https://www.etsy.com/people/{username}"
+  },
+  {
+    "name": "eBay (user)",
+    "url": "https://www.ebay.com/usr/{username}"
+  },
+  {
+    "name": "Amazon (seller storefront)",
+    "url": "https://www.amazon.com/shops/{username}"
+  },
+  {
+    "name": "Shopify (storefronts - custom domain varies)",
+    "url": "https://{username}.myshopify.com"
+  },
+  {
+    "name": "Depop",
+    "url": "https://www.depop.com/{username}"
+  },
+  {
+    "name": "Poshmark",
+    "url": "https://poshmark.com/closet/{username}"
+  },
+  {
+    "name": "Mercari",
+    "url": "https://www.mercari.com/us/u/{username}"
+  },
+  {
+    "name": "Craigslist (user pages vary)",
+    "url": "https://craigslist.org/search/sss?query={username}"
+  },
+  {
+    "name": "OfferUp",
+    "url": "https://offerup.com/user/profile/{username}"
+  },
+  {
+    "name": "AliExpress (seller)",
+    "url": "https://www.aliexpress.com/store/{storeid}"
+  },
+  {
+    "name": "Medium Publication (author)",
+    "url": "https://medium.com/@{username}"
+  },
+  {
+    "name": "Blogger (user blog)",
+    "url": "https://{username}.blogspot.com"
+  },
+  {
+    "name": "Ghost (hosted)",
+    "url": "https://{username}.ghost.io"
+  },
+  {
+    "name": "Substack",
+    "url": "https://{username}.substack.com"
+  },
+  {
+    "name": "Patreon",
+    "url": "https://www.patreon.com/{username}"
+  },
+  {
+    "name": "BuyMeACoffee",
+    "url": "https://www.buymeacoffee.com/{username}"
+  },
+  {
+    "name": "Ko-fi",
+    "url": "https://ko-fi.com/{username}"
+  },
+  {
+    "name": "Anchor (podcast)",
+    "url": "https://anchor.fm/{username}"
+  },
+  {
+    "name": "SoundCloud (profile)",
+    "url": "https://soundcloud.com/{username}"
+  },
+  {
+    "name": "MixCloud (profile)",
+    "url": "https://www.mixcloud.com/{username}"
+  },
+  {
+    "name": "Reddit (multireddit)",
+    "url": "https://www.reddit.com/user/{username}/posts/"
+  },
+  {
+    "name": "Stack Overflow (profile)",
+    "url": "https://stackoverflow.com/users/{userid}/{username}"
+  },
+  {
+    "name": "Stack Exchange (profile)",
+    "url": "https://{site}.stackexchange.com/users/{userid}/{username}"
+  },
+  {
+    "name": "Quora (profile)",
+    "url": "https://www.quora.com/profile/{username}"
+  },
+  {
+    "name": "Discourse (example)",
+    "url": "https://meta.discourse.org/u/{username}"
+  },
+  {
+    "name": "phpBB (example)",
+    "url": "https://forum.example.com/member.php?u={userid}"
+  },
+  {
+    "name": "vBulletin (example)",
+    "url": "https://forum.example.com/member.php?u={userid}"
+  },
+  {
+    "name": "XDA Developers (profile)",
+    "url": "https://forum.xda-developers.com/member.php?u={userid}"
+  },
+  {
+    "name": "GameFAQs (user)",
+    "url": "https://gamefaqs.gamespot.com/users/{username}"
+  },
+  {
+    "name": "Steam Community",
+    "url": "https://steamcommunity.com/id/{username}"
+  },
+  {
+    "name": "Xbox Live (profile)",
+    "url": "https://account.xbox.com/en-us/profile?gamerTag={username}"
+  },
+  {
+    "name": "PlayStation (profile)",
+    "url": "https://my.playstation.com/{username}"
+  },
+  {
+    "name": "Steam (community)",
+    "url": "https://steamcommunity.com/id/{username}"
+  },
+  {
+    "name": "Epic Games (profile)",
+    "url": "https://www.epicgames.com/id/{username}"
+  },
+  {
+    "name": "GOG (profile)",
+    "url": "https://www.gog.com/u/{username}"
+  },
+  {
+    "name": "Battle.net (profile)",
+    "url": "https://account.battle.net/profile/overview/{username}"
+  },
+  {
+    "name": "Roblox",
+    "url": "https://www.roblox.com/users/{userid}/profile"
+  },
+  {
+    "name": "Minecraft (crafatar/avatar)",
+    "url": "https://crafatar.com/avatars/{uuid}"
+  },
+  {
+    "name": "Xbox (gamertag page)",
+    "url": "https://account.xbox.com/en-us/profile?gamerTag={username}"
+  },
+  {
+    "name": "Twitch (channel)",
+    "url": "https://www.twitch.tv/{username}"
+  },
+  {
+    "name": "Mixer (legacy)",
+    "url": "https://mixer.com/{username}"
+  },
+  {
+    "name": "Instagram (reels/profile)",
+    "url": "https://www.instagram.com/{username}"
+  },
+  {
+    "name": "Flickr (photos)",
+    "url": "https://www.flickr.com/photos/{username}"
+  },
+  {
+    "name": "YouTube Channel",
+    "url": "https://www.youtube.com/c/{username}"
+  },
+  {
+    "name": "Twitch Clips",
+    "url": "https://clips.twitch.tv/{username}"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/in/{username}"
+  },
+  {
+    "name": "Indeed (resume)",
+    "url": "https://www.indeed.com/career/{username}"
+  },
+  {
+    "name": "Glassdoor (profile)",
+    "url": "https://www.glassdoor.com/profile/{username}"
+  },
+  {
+    "name": "AngelList (startup)",
+    "url": "https://angel.co/u/{username}"
+  },
+  {
+    "name": "Behance",
+    "url": "https://www.behance.net/{username}"
+  },
+  {
+    "name": "Dribbble",
+    "url": "https://dribbble.com/{username}"
+  },
+  {
+    "name": "Coroflot",
+    "url": "https://www.coroflot.com/{username}"
+  },
+  {
+    "name": "Etsy (shop)",
+    "url": "https://www.etsy.com/shop/{username}"
+  },
+  {
+    "name": "Shopify (stores)",
+    "url": "https://{username}.myshopify.com"
+  },
+  {
+    "name": "Wanelo",
+    "url": "https://wanelo.com/p/{username}"
+  },
+  {
+    "name": "Bonanza (seller)",
+    "url": "https://www.bonanza.com/sellers/{username}"
+  },
+  {
+    "name": "ResearchGate",
+    "url": "https://www.researchgate.net/profile/{username}"
+  },
+  {
+    "name": "Academia.edu",
+    "url": "https://{username}.academia.edu"
+  },
+  {
+    "name": "ORCID",
+    "url": "https://orcid.org/{orcid}"
+  },
+  {
+    "name": "Google Scholar (author)",
+    "url": "https://scholar.google.com/citations?user={id}"
+  },
+  {
+    "name": "Mendeley",
+    "url": "https://www.mendeley.com/profiles/{username}"
+  },
+  {
+    "name": "Vocal.Media",
+    "url": "https://vocal.media/users/{username}"
+  },
+  {
+    "name": "Hackernoon",
+    "url": "https://hackernoon.com/@{username}"
+  },
+  {
+    "name": "OpenSea (profile)",
+    "url": "https://opensea.io/{username}"
+  },
+  {
+    "name": "Rarible (profile)",
+    "url": "https://rarible.com/{username}"
+  },
+  {
+    "name": "Foundation",
+    "url": "https://foundation.app/{username}"
+  },
+  {
+    "name": "SuperRare",
+    "url": "https://superrare.com/{username}"
+  },
+  {
+    "name": "Crunchbase",
+    "url": "https://www.crunchbase.com/person/{username}"
+  },
+  {
+    "name": "AngelList",
+    "url": "https://angel.co/u/{username}"
+  },
+  {
+    "name": "Yelp (user)",
+    "url": "https://www.yelp.com/user_details?userid={userid}"
+  },
+  {
+    "name": "TripAdvisor (member)",
+    "url": "https://www.tripadvisor.com/members/{username}"
+  },
+  {
+    "name": "WeChat (public)",
+    "url": "https://weixin.qq.com/{username}"
+  },
+  {
+    "name": "Sina Weibo",
+    "url": "https://weibo.com/{username}"
+  },
+  {
+    "name": "Renren",
+    "url": "https://www.renren.com/{username}"
+  },
+  {
+    "name": "Xing",
+    "url": "https://www.xing.com/profile/{username}"
+  },
+  {
+    "name": "Vero",
+    "url": "https://www.vero.co/{username}"
+  },
+  {
+    "name": "Ello",
+    "url": "https://ello.co/{username}"
+  },
+  {
+    "name": "Yelp (business)",
+    "url": "https://www.yelp.com/biz/{business-slug}"
+  },
+  {
+    "name": "Trustpilot (user)",
+    "url": "https://www.trustpilot.com/users/{username}"
+  },
+  {
+    "name": "OpenTable (profile)",
+    "url": "https://www.opentable.com/profile/{username}"
+  },
+  {
+    "name": "Goodreads (author)",
+    "url": "https://www.goodreads.com/author/show/{authorid}.{username}"
+  },
+  {
+    "name": "Allrecipes (user)",
+    "url": "https://www.allrecipes.com/cook/{username}"
+  },
+  {
+    "name": "Twitter",
+    "url": "https://twitter.com/{username}"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://instagram.com/{username}"
+  },
+  {
+    "name": "Facebook",
+    "url": "https://facebook.com/{username}"
+  },
+  {
+    "name": "Pinterest",
+    "url": "https://pinterest.com/{username}"
+  },
+  {
+    "name": "Snapchat (add)",
+    "url": "https://snapchat.com/add/{username}"
+  },
+  {
+    "name": "TikTok (user)",
+    "url": "https://www.tiktok.com/@{username}"
+  },
+  {
+    "name": "YouTube (channel)",
+    "url": "https://youtube.com/{username}"
+  },
+  {
+    "name": "Tumblr (blog)",
+    "url": "https://{username}.tumblr.com"
+  },
+  {
+    "name": "Flickr (profile)",
+    "url": "https://www.flickr.com/people/{username}"
+  },
+  {
+    "name": "Bandcamp (artist)",
+    "url": "https://{username}.bandcamp.com"
+  },
+  {
+    "name": "Patreon (creator)",
+    "url": "https://www.patreon.com/{username}"
+  },
+  {
+    "name": "Discord (invite profile)",
+    "url": "https://discord.com/users/{username}"
+  },
+  {
+    "name": "VK (person)",
+    "url": "https://vk.com/{username}"
+  },
+  {
+    "name": "Odnoklassniki (user)",
+    "url": "https://ok.ru/profile/{username}"
+  },
+  {
+    "name": "Reddit (u)",
+    "url": "https://reddit.com/u/{username}"
+  },
+  {
+    "name": "Reddit (profile)",
+    "url": "https://www.reddit.com/user/{username}"
+  },
+  {
+    "name": "GitHub (profile)",
+    "url": "https://github.com/{username}"
+  },
+  {
+    "name": "GitLab (profile)",
+    "url": "https://gitlab.com/{username}"
+  },
+  {
+    "name": "Bitbucket (profile)",
+    "url": "https://bitbucket.org/{username}"
+  },
+  {
+    "name": "Dribbble (designer)",
+    "url": "https://dribbble.com/{username}"
+  },
+  {
+    "name": "Behance (portfolio)",
+    "url": "https://www.behance.net/{username}"
+  },
+  {
+    "name": "StackOverflow (profile)",
+    "url": "https://stackoverflow.com/users/{userid}/{username}"
+  },
+  {
+    "name": "Goodreads (profile)",
+    "url": "https://www.goodreads.com/user/show/{userid}-{username}"
+  },
+  {
+    "name": "Medium (author)",
+    "url": "https://medium.com/@{username}"
+  },
+  {
+    "name": "Substack (author)",
+    "url": "https://{username}.substack.com"
+  },
+  {
+    "name": "Vimeo (user)",
+    "url": "https://vimeo.com/{username}"
+  },
+  {
+    "name": "Twitch (streamer)",
+    "url": "https://www.twitch.tv/{username}"
+  },
+  {
+    "name": "Steam (profile)",
+    "url": "https://steamcommunity.com/id/{username}"
+  },
+  {
+    "name": "Xbox (profile)",
+    "url": "https://account.xbox.com/en-us/profile?gamerTag={username}"
+  },
+  {
+    "name": "Trakt (user)",
+    "url": "https://trakt.tv/users/{username}"
+  },
+  {
+    "name": "Letterboxd (user)",
+    "url": "https://letterboxd.com/{username}"
+  },
+  {
+    "name": "Goodreads (user)",
+    "url": "https://www.goodreads.com/{username}"
+  },
+  {
+    "name": "Scribd (user)",
+    "url": "https://www.scribd.com/{username}"
+  },
+  {
+    "name": "About",
+    "url": "https://about.me/{username}"
+  },
+  {
+    "name": "Angel",
+    "url": "https://angel.co/{username}"
+  },
+  {
+    "name": "Bandcamp",
+    "url": "https://bandcamp.com/{username}"
+  },
+  {
+    "name": "Behance",
+    "url": "https://behance.net/{username}"
+  },
+  {
+    "name": "Booking",
+    "url": "https://booking.com/{username}"
+  },
+  {
+    "name": "Bsky",
+    "url": "https://bsky.app/{username}"
+  },
+  {
+    "name": "Buymeacoffee",
+    "url": "https://buymeacoffee.com/{username}"
+  },
+  {
+    "name": "Cafepress",
+    "url": "https://cafepress.com/{username}"
+  },
+  {
+    "name": "Canva",
+    "url": "https://canva.com/{username}"
+  },
+  {
+    "name": "Careers",
+    "url": "https://careers.stackoverflow.com/{username}"
+  },
+  {
+    "name": "Classmates",
+    "url": "https://classmates.com/{username}"
+  },
+  {
+    "name": "Codecademy",
+    "url": "https://codecademy.com/{username}"
+  },
+  {
+    "name": "Codesandbox",
+    "url": "https://codesandbox.io/{username}"
+  },
+  {
+    "name": "Contributor",
+    "url": "https://contributor.github.com/{username}"
+  },
+  {
+    "name": "Coursera",
+    "url": "https://coursera.org/{username}"
+  },
+  {
+    "name": "Coub",
+    "url": "https://coub.com/{username}"
+  },
+  {
+    "name": "Crunchbase",
+    "url": "https://crunchbase.com/{username}"
+  },
+  {
+    "name": "Deviantart",
+    "url": "https://deviantart.com/{username}"
+  },
+  {
+    "name": "Digg",
+    "url": "https://digg.com/{username}"
+  },
+  {
+    "name": "Discogs",
+    "url": "https://discogs.com/{username}"
+  },
+  {
+    "name": "Drupal",
+    "url": "https://drupal.org/{username}"
+  },
+  {
+    "name": "Etsy",
+    "url": "https://etsy.com/{username}"
+  },
+  {
+    "name": "Eventbrite",
+    "url": "https://eventbrite.com/{username}"
+  },
+  {
+    "name": "Foursquare",
+    "url": "https://foursquare.com/{username}"
+  },
+  {
+    "name": "Gratipay",
+    "url": "https://gratipay.com/{username}"
+  },
+  {
+    "name": "Hackerone",
+    "url": "https://hackerone.com/{username}"
+  },
+  {
+    "name": "Homeaway",
+    "url": "https://homeaway.com/{username}"
+  },
+  {
+    "name": "Hotels",
+    "url": "https://hotels.com/{username}"
+  },
+  {
+    "name": "Indeed",
+    "url": "https://indeed.com/{username}"
+  },
+  {
+    "name": "Issuu",
+    "url": "https://issuu.com/{username}"
+  },
+  {
+    "name": "Koukichi-t",
+    "url": "https://koukichi-t/{username}"
+  },
+  {
+    "name": "Lanyrd",
+    "url": "https://lanyrd.com/{username}"
+  },
+  {
+    "name": "Last",
+    "url": "https://last.fm/{username}"
+  },
+  {
+    "name": "Letterboxd",
+    "url": "https://letterboxd.com/{username}"
+  },
+  {
+    "name": "Livejournal",
+    "url": "https://livejournal.com/{username}"
+  },
+  {
+    "name": "Meetup",
+    "url": "https://meetup.com/{username}"
+  },
+  {
+    "name": "Mix",
+    "url": "https://mix.com/{username}"
+  },
+  {
+    "name": "Myspace",
+    "url": "https://myspace.com/{username}"
+  },
+  {
+    "name": "Nomadlist",
+    "url": "https://nomadlist.com/{username}"
+  },
+  {
+    "name": "Pocketcasts",
+    "url": "https://pocketcasts.com/{username}"
+  },
+  {
+    "name": "Producthunt",
+    "url": "https://producthunt.com/{username}"
+  },
+  {
+    "name": "Pscp",
+    "url": "https://pscp.tv/{username}"
+  },
+  {
+    "name": "Researchgate",
+    "url": "https://researchgate.net/{username}"
+  },
+  {
+    "name": "Slideshare",
+    "url": "https://slideshare.net/{username}"
+  },
+  {
+    "name": "Soundclick",
+    "url": "https://soundclick.com/{username}"
+  },
+  {
+    "name": "Speakerdeck",
+    "url": "https://speakerdeck.com/{username}"
+  },
+  {
+    "name": "Stackoverflow",
+    "url": "https://stackoverflow.com/{username}"
+  },
+  {
+    "name": "Strava",
+    "url": "https://strava.com/{username}"
+  },
+  {
+    "name": "Telegram",
+    "url": "https://telegram.me/{username}"
+  },
+  {
+    "name": "Tripadvisor",
+    "url": "https://tripadvisor.com/{username}"
+  },
+  {
+    "name": "Untappd",
+    "url": "https://untappd.com/{username}"
+  },
+  {
+    "name": "Venmo",
+    "url": "https://venmo.com/{username}"
+  },
+  {
+    "name": "Vk",
+    "url": "https://vk.com/{username}"
+  },
+  {
+    "name": "Weheartit",
+    "url": "https://weheartit.com/{username}"
+  },
+  {
+    "name": "Xing",
+    "url": "https://xing.com/{username}"
+  },
+  {
+    "name": "Yelp",
+    "url": "https://yelp.com/{username}"
+  },
+  {
+    "name": "Zooniverse",
+    "url": "https://zooniverse.org/{username}"
+  },
+  {
+    "name": "Zillow",
+    "url": "https://zillow.com/{username}"
+  },
+  {
+    "name": "Archive",
+    "url": "https://archive.org/{username}"
+  },
+  {
+    "name": "Snapchat (alt 1)",
+    "url": "https://www.snapchat.com/add/{username}"
+  },
+  {
+    "name": "Medium (alt 2)",
+    "url": "https://medium.com/@{username}"
+  },
+  {
+    "name": "Bilibili (user) (alt 3)",
+    "url": "https://www.bilibili.com/{username}"
+  },
+  {
+    "name": "Periscope (defunct) (alt 4)",
+    "url": "https://www.periscope.tv/{username}"
+  },
+  {
+    "name": "DeviantArt (alt 5)",
+    "url": "https://www.deviantart.com/{username}"
+  },
+  {
+    "name": "Mastodon (instance) (alt 6)",
+    "url": "https://{instance}/@{username}"
+  },
+  {
+    "name": "Gitea (alt 7)",
+    "url": "https://try.gitea.io/{username}"
+  },
+  {
+    "name": "JSFiddle (alt 8)",
+    "url": "https://jsfiddle.net/user/{username}/"
+  },
+  {
+    "name": "GitHub Pages (username.github.io) (alt 9)",
+    "url": "https://{username}.github.io"
+  },
+  {
+    "name": "PyPI (maintainer) (alt 10)",
+    "url": "https://pypi.org/user/{username}/"
+  },
+  {
+    "name": "Webflow (site) (alt 11)",
+    "url": "https://{username}.webflow.io"
+  },
+  {
+    "name": "Lnk.Bio (alt 12)",
+    "url": "https://lnk.bio/{username}"
+  },
+  {
+    "name": "AboutYou page (alt 13)",
+    "url": "https://aboutyou.com/{username}"
+  },
+  {
+    "name": "Poshmark (alt 14)",
+    "url": "https://poshmark.com/closet/{username}"
+  },
+  {
+    "name": "Ghost (hosted) (alt 15)",
+    "url": "https://{username}.ghost.io"
+  },
+  {
+    "name": "MixCloud (profile) (alt 16)",
+    "url": "https://www.mixcloud.com/{username}"
+  },
+  {
+    "name": "vBulletin (example) (alt 17)",
+    "url": "https://forum.example.com/member.php?u={userid}"
+  },
+  {
+    "name": "Epic Games (profile) (alt 18)",
+    "url": "https://www.epicgames.com/id/{username}"
+  },
+  {
+    "name": "Mixer (legacy) (alt 19)",
+    "url": "https://mixer.com/{username}"
+  },
+  {
+    "name": "Glassdoor (profile) (alt 20)",
+    "url": "https://www.glassdoor.com/profile/{username}"
+  },
+  {
+    "name": "Wanelo (alt 21)",
+    "url": "https://wanelo.com/p/{username}"
+  },
+  {
+    "name": "Vocal.Media (alt 22)",
+    "url": "https://vocal.media/users/{username}"
+  },
+  {
+    "name": "AngelList (alt 23)",
+    "url": "https://angel.co/u/{username}"
+  },
+  {
+    "name": "Vero (alt 24)",
+    "url": "https://www.vero.co/{username}"
+  },
+  {
+    "name": "Twitter (alt 25)",
+    "url": "https://twitter.com/{username}"
+  },
+  {
+    "name": "Tumblr (blog) (alt 26)",
+    "url": "https://{username}.tumblr.com"
+  },
+  {
+    "name": "Reddit (u) (alt 27)",
+    "url": "https://reddit.com/u/{username}"
+  },
+  {
+    "name": "StackOverflow (profile) (alt 28)",
+    "url": "https://stackoverflow.com/users/{userid}/{username}"
+  },
+  {
+    "name": "Xbox (profile) (alt 29)",
+    "url": "https://account.xbox.com/en-us/profile?gamerTag={username}"
+  },
+  {
+    "name": "Bandcamp (alt 30)",
+    "url": "https://bandcamp.com/{username}"
+  },
+  {
+    "name": "Careers (alt 31)",
+    "url": "https://careers.stackoverflow.com/{username}"
+  },
+  {
+    "name": "Crunchbase (alt 32)",
+    "url": "https://crunchbase.com/{username}"
+  },
+  {
+    "name": "Foursquare (alt 33)",
+    "url": "https://foursquare.com/{username}"
+  },
+  {
+    "name": "Koukichi-t (alt 34)",
+    "url": "https://koukichi-t/{username}"
+  },
+  {
+    "name": "Myspace (alt 35)",
+    "url": "https://myspace.com/{username}"
+  },
+  {
+    "name": "Soundclick (alt 36)",
+    "url": "https://soundclick.com/{username}"
+  },
+  {
+    "name": "Venmo (alt 37)",
+    "url": "https://venmo.com/{username}"
+  },
+  {
+    "name": "Archive (alt 38)",
+    "url": "https://archive.org/{username}"
+  },
+  {
+    "name": "Gitea (alt 7) (alt 39)",
+    "url": "https://try.gitea.io/{username}"
+  },
+  {
+    "name": "Poshmark (alt 14) (alt 40)",
+    "url": "https://poshmark.com/closet/{username}"
+  },
+  {
+    "name": "Wanelo (alt 21) (alt 41)",
+    "url": "https://wanelo.com/p/{username}"
+  },
+  {
+    "name": "StackOverflow (profile) (alt 28) (alt 42)",
+    "url": "https://stackoverflow.com/users/{userid}/{username}"
+  },
+  {
+    "name": "Myspace (alt 35) (alt 43)",
+    "url": "https://myspace.com/{username}"
+  },
+  {
+    "name": "StackOverflow (profile) (alt 28) (alt 42) (alt 44)",
+    "url": "https://stackoverflow.com/users/{userid}/{username}"
+  },
+  {
+    "name": "YouTube (channel @) (alt 45)",
+    "url": "https://www.youtube.com/@{username}"
+  },
+  {
+    "name": "Pinterest (alt 46)",
+    "url": "https://www.pinterest.com/{username}"
+  },
+  {
+    "name": "VK (alt 47)",
+    "url": "https://vk.com/{username}"
+  },
+  {
+    "name": "Telegram (t.me) (alt 48)",
+    "url": "https://t.me/{username}"
+  },
+  {
+    "name": "Periscope (defunct) (alt 49)",
+    "url": "https://www.periscope.tv/{username}"
+  },
+  {
+    "name": "Goodreads (alt 50)",
+    "url": "https://www.goodreads.com/{username}"
+  },
+  {
+    "name": "Nextdoor (neighbourhood pages vary) (alt 51)",
+    "url": "https://nextdoor.com/profile/{username}"
+  },
+  {
+    "name": "GitHub (alt 52)",
+    "url": "https://github.com/{username}"
+  },
+  {
+    "name": "Stack Exchange (alt 53)",
+    "url": "https://{site}.stackexchange.com/users/{userid}/{username}"
+  },
+  {
+    "name": "Replit (alt 54)",
+    "url": "https://replit.com/@{username}"
+  },
+  {
+    "name": "GitLab Pages (alt 55)",
+    "url": "https://{username}.gitlab.io"
+  },
+  {
+    "name": "PyPI (maintainer) (alt 56)",
+    "url": "https://pypi.org/user/{username}/"
+  },
+  {
+    "name": "Squarespace (site) (alt 57)",
+    "url": "https://{username}.squarespace.com"
+  },
+  {
+    "name": "Biolinky (alt 58)",
+    "url": "https://biolinky.co/{username}"
+  },
+  {
+    "name": "Blogger (blogspot) (alt 59)",
+    "url": "https://{username}.blogspot.com"
+  },
+  {
+    "name": "eBay (user) (alt 60)",
+    "url": "https://www.ebay.com/usr/{username}"
+  },
+  {
+    "name": "Craigslist (user pages vary) (alt 61)",
+    "url": "https://craigslist.org/search/sss?query={username}"
+  },
+  {
+    "name": "Substack (alt 62)",
+    "url": "https://{username}.substack.com"
+  },
+  {
+    "name": "MixCloud (profile) (alt 63)",
+    "url": "https://www.mixcloud.com/{username}"
+  },
+  {
+    "name": "phpBB (example) (alt 64)",
+    "url": "https://forum.example.com/member.php?u={userid}"
+  },
+  {
+    "name": "PlayStation (profile) (alt 65)",
+    "url": "https://my.playstation.com/{username}"
+  },
+  {
+    "name": "Minecraft (crafatar/avatar) (alt 66)",
+    "url": "https://crafatar.com/avatars/{uuid}"
+  },
+  {
+    "name": "YouTube Channel (alt 67)",
+    "url": "https://www.youtube.com/c/{username}"
+  },
+  {
+    "name": "Behance (alt 68)",
+    "url": "https://www.behance.net/{username}"
+  },
+  {
+    "name": "Bonanza (seller) (alt 69)",
+    "url": "https://www.bonanza.com/sellers/{username}"
+  },
+  {
+    "name": "Vocal.Media (alt 70)",
+    "url": "https://vocal.media/users/{username}"
+  },
+  {
+    "name": "Crunchbase (alt 71)",
+    "url": "https://www.crunchbase.com/person/{username}"
+  },
+  {
+    "name": "Renren (alt 72)",
+    "url": "https://www.renren.com/{username}"
+  },
+  {
+    "name": "OpenTable (profile) (alt 73)",
+    "url": "https://www.opentable.com/profile/{username}"
+  },
+  {
+    "name": "Pinterest (alt 74)",
+    "url": "https://pinterest.com/{username}"
+  },
+  {
+    "name": "Bandcamp (artist) (alt 75)",
+    "url": "https://{username}.bandcamp.com"
+  },
+  {
+    "name": "Reddit (profile) (alt 76)",
+    "url": "https://www.reddit.com/user/{username}"
+  },
+  {
+    "name": "StackOverflow (profile) (alt 77)",
+    "url": "https://stackoverflow.com/users/{userid}/{username}"
+  },
+  {
+    "name": "Steam (profile) (alt 78)",
+    "url": "https://steamcommunity.com/id/{username}"
+  },
+  {
+    "name": "About (alt 79)",
+    "url": "https://about.me/{username}"
+  },
+  {
+    "name": "Buymeacoffee (alt 80)",
+    "url": "https://buymeacoffee.com/{username}"
+  },
+  {
+    "name": "Codesandbox (alt 81)",
+    "url": "https://codesandbox.io/{username}"
+  },
+  {
+    "name": "Digg (alt 82)",
+    "url": "https://digg.com/{username}"
+  },
+  {
+    "name": "Gratipay (alt 83)",
+    "url": "https://gratipay.com/{username}"
+  },
+  {
+    "name": "Koukichi-t (alt 84)",
+    "url": "https://koukichi-t/{username}"
+  },
+  {
+    "name": "Mix (alt 85)",
+    "url": "https://mix.com/{username}"
+  },
+  {
+    "name": "Researchgate (alt 86)",
+    "url": "https://researchgate.net/{username}"
+  },
+  {
+    "name": "Telegram (alt 87)",
+    "url": "https://telegram.me/{username}"
+  },
+  {
+    "name": "Xing (alt 88)",
+    "url": "https://xing.com/{username}"
+  },
+  {
+    "name": "Medium (alt 2) (alt 89)",
+    "url": "https://medium.com/@{username}"
+  },
+  {
+    "name": "JSFiddle (alt 8) (alt 90)",
+    "url": "https://jsfiddle.net/user/{username}/"
+  },
+  {
+    "name": "Poshmark (alt 14) (alt 91)",
+    "url": "https://poshmark.com/closet/{username}"
+  },
+  {
+    "name": "Glassdoor (profile) (alt 20) (alt 92)",
+    "url": "https://www.glassdoor.com/profile/{username}"
+  },
+  {
+    "name": "Tumblr (blog) (alt 26) (alt 93)",
+    "url": "https://{username}.tumblr.com"
+  },
+  {
+    "name": "Crunchbase (alt 32) (alt 94)",
+    "url": "https://crunchbase.com/{username}"
+  },
+  {
+    "name": "Archive (alt 38) (alt 95)",
+    "url": "https://archive.org/{username}"
+  },
+  {
+    "name": "StackOverflow (profile) (alt 28) (alt 42) (alt 44) (alt 96)",
+    "url": "https://stackoverflow.com/users/{userid}/{username}"
+  },
+  {
+    "name": "Goodreads (alt 50) (alt 97)",
+    "url": "https://www.goodreads.com/{username}"
+  },
+  {
+    "name": "PyPI (maintainer) (alt 56) (alt 98)",
+    "url": "https://pypi.org/user/{username}/"
+  },
+  {
+    "name": "Substack (alt 62) (alt 99)",
+    "url": "https://{username}.substack.com"
+  },
+  {
+    "name": "Behance (alt 68) (alt 100)",
+    "url": "https://www.behance.net/{username}"
+  },
+  {
+    "name": "Pinterest (alt 74) (alt 101)",
+    "url": "https://pinterest.com/{username}"
+  },
+  {
+    "name": "Buymeacoffee (alt 80) (alt 102)",
+    "url": "https://buymeacoffee.com/{username}"
+  },
+  {
+    "name": "Researchgate (alt 86) (alt 103)",
+    "url": "https://researchgate.net/{username}"
+  },
+  {
+    "name": "Glassdoor (profile) (alt 20) (alt 92) (alt 104)",
+    "url": "https://www.glassdoor.com/profile/{username}"
+  },
+  {
+    "name": "PyPI (maintainer) (alt 56) (alt 98) (alt 105)",
+    "url": "https://pypi.org/user/{username}/"
+  },
+  {
+    "name": "Glassdoor (profile) (alt 20) (alt 92) (alt 104) (alt 106)",
+    "url": "https://www.glassdoor.com/profile/{username}"
+  },
+  {
+    "name": "X (Twitter) (alt 107)",
+    "url": "https://x.com/{username}"
+  },
+  {
+    "name": "LinkedIn (public) (alt 108)",
+    "url": "https://www.linkedin.com/in/{username}"
+  },
+  {
+    "name": "Tumblr (alt 109)",
+    "url": "https://{username}.tumblr.com"
+  },
+  {
+    "name": "Weibo (alt 110)",
+    "url": "https://weibo.com/u/{username}"
+  },
+  {
+    "name": "Telegram (web) (alt 111)",
+    "url": "https://web.telegram.org/#/im?p=@{username}"
+  },
+  {
+    "name": "Periscope (defunct) (alt 112)",
+    "url": "https://www.periscope.tv/{username}"
+  },
+  {
+    "name": "Mixcloud (alt 113)",
+    "url": "https://www.mixcloud.com/{username}"
+  },
+  {
+    "name": "Imgur (user) (alt 114)",
+    "url": "https://imgur.com/user/{username}"
+  },
+  {
+    "name": "Threads (alt 115)",
+    "url": "https://www.threads.net/@{username}"
+  },
+  {
+    "name": "Bitbucket (alt 116)",
+    "url": "https://bitbucket.org/{username}"
+  },
+  {
+    "name": "Dev.to (alt 117)",
+    "url": "https://dev.to/{username}"
+  },
+  {
+    "name": "Replit (alt 118)",
+    "url": "https://replit.com/@{username}"
+  },
+  {
+    "name": "GitHub Pages (username.github.io) (alt 119)",
+    "url": "https://{username}.github.io"
+  },
+  {
+    "name": "Gist (GitHub) (alt 120)",
+    "url": "https://gist.github.com/{username}"
+  },
+  {
+    "name": "Notion (profile) (alt 121)",
+    "url": "https://www.notion.so/{username}"
+  },
+  {
+    "name": "Weebly (alt 122)",
+    "url": "https://{username}.weebly.com"
+  },
+  {
+    "name": "Taplink (alt 123)",
+    "url": "https://taplink.at/{username}"
+  },
+  {
+    "name": "Blogger (blogspot) (alt 124)",
+    "url": "https://{username}.blogspot.com"
+  },
+  {
+    "name": "Etsy (people) (alt 125)",
+    "url": "https://www.etsy.com/people/{username}"
+  },
+  {
+    "name": "Poshmark (alt 126)",
+    "url": "https://poshmark.com/closet/{username}"
+  },
+  {
+    "name": "Medium Publication (author) (alt 127)",
+    "url": "https://medium.com/@{username}"
+  },
+  {
+    "name": "BuyMeACoffee (alt 128)",
+    "url": "https://www.buymeacoffee.com/{username}"
+  },
+  {
+    "name": "Reddit (multireddit) (alt 129)",
+    "url": "https://www.reddit.com/user/{username}/posts/"
+  },
+  {
+    "name": "phpBB (example) (alt 130)",
+    "url": "https://forum.example.com/member.php?u={userid}"
+  },
+  {
+    "name": "Xbox Live (profile) (alt 131)",
+    "url": "https://account.xbox.com/en-us/profile?gamerTag={username}"
+  },
+  {
+    "name": "Battle.net (profile) (alt 132)",
+    "url": "https://account.battle.net/profile/overview/{username}"
+  },
+  {
+    "name": "Mixer (legacy) (alt 133)",
+    "url": "https://mixer.com/{username}"
+  },
+  {
+    "name": "LinkedIn (alt 134)",
+    "url": "https://www.linkedin.com/in/{username}"
+  },
+  {
+    "name": "Dribbble (alt 135)",
+    "url": "https://dribbble.com/{username}"
+  },
+  {
+    "name": "Bonanza (seller) (alt 136)",
+    "url": "https://www.bonanza.com/sellers/{username}"
+  },
+  {
+    "name": "Mendeley (alt 137)",
+    "url": "https://www.mendeley.com/profiles/{username}"
+  },
+  {
+    "name": "Foundation (alt 138)",
+    "url": "https://foundation.app/{username}"
+  },
+  {
+    "name": "TripAdvisor (member) (alt 139)",
+    "url": "https://www.tripadvisor.com/members/{username}"
+  },
+  {
+    "name": "Vero (alt 140)",
+    "url": "https://www.vero.co/{username}"
+  },
+  {
+    "name": "Goodreads (author) (alt 141)",
+    "url": "https://www.goodreads.com/author/show/{authorid}.{username}"
+  },
+  {
+    "name": "Pinterest (alt 142)",
+    "url": "https://pinterest.com/{username}"
+  },
+  {
+    "name": "Flickr (profile) (alt 143)",
+    "url": "https://www.flickr.com/people/{username}"
+  },
+  {
+    "name": "Odnoklassniki (user) (alt 144)",
+    "url": "https://ok.ru/profile/{username}"
+  },
+  {
+    "name": "Bitbucket (profile) (alt 145)",
+    "url": "https://bitbucket.org/{username}"
+  },
+  {
+    "name": "Medium (author) (alt 146)",
+    "url": "https://medium.com/@{username}"
+  },
+  {
+    "name": "Xbox (profile) (alt 147)",
+    "url": "https://account.xbox.com/en-us/profile?gamerTag={username}"
+  },
+  {
+    "name": "About (alt 148)",
+    "url": "https://about.me/{username}"
+  },
+  {
+    "name": "Bsky (alt 149)",
+    "url": "https://bsky.app/{username}"
+  },
+  {
+    "name": "Classmates (alt 150)",
+    "url": "https://classmates.com/{username}"
+  },
+  {
+    "name": "Coub (alt 151)",
+    "url": "https://coub.com/{username}"
+  },
+  {
+    "name": "Drupal (alt 152)",
+    "url": "https://drupal.org/{username}"
+  },
+  {
+    "name": "Hackerone (alt 153)",
+    "url": "https://hackerone.com/{username}"
+  },
+  {
+    "name": "Koukichi-t (alt 154)",
+    "url": "https://koukichi-t/{username}"
+  },
+  {
+    "name": "Meetup (alt 155)",
+    "url": "https://meetup.com/{username}"
+  },
+  {
+    "name": "Producthunt (alt 156)",
+    "url": "https://producthunt.com/{username}"
+  },
+  {
+    "name": "Speakerdeck (alt 157)",
+    "url": "https://speakerdeck.com/{username}"
+  },
+  {
+    "name": "Untappd (alt 158)",
+    "url": "https://untappd.com/{username}"
+  },
+  {
+    "name": "Yelp (alt 159)",
+    "url": "https://yelp.com/{username}"
+  },
+  {
+    "name": "Medium (alt 2) (alt 160)",
+    "url": "https://medium.com/@{username}"
+  },
+  {
+    "name": "Gitea (alt 7) (alt 161)",
+    "url": "https://try.gitea.io/{username}"
+  },
+  {
+    "name": "Lnk.Bio (alt 12) (alt 162)",
+    "url": "https://lnk.bio/{username}"
+  },
+  {
+    "name": "vBulletin (example) (alt 17) (alt 163)",
+    "url": "https://forum.example.com/member.php?u={userid}"
+  },
+  {
+    "name": "Vocal.Media (alt 22) (alt 164)",
+    "url": "https://vocal.media/users/{username}"
+  },
+  {
+    "name": "Reddit (u) (alt 27) (alt 165)",
+    "url": "https://reddit.com/u/{username}"
+  },
+  {
+    "name": "Crunchbase (alt 32) (alt 166)",
+    "url": "https://crunchbase.com/{username}"
+  },
+  {
+    "name": "Venmo (alt 37) (alt 167)",
+    "url": "https://venmo.com/{username}"
+  },
+  {
+    "name": "StackOverflow (profile) (alt 28) (alt 42) (alt 168)",
+    "url": "https://stackoverflow.com/users/{userid}/{username}"
+  },
+  {
+    "name": "VK (alt 47) (alt 169)",
+    "url": "https://vk.com/{username}"
+  },
+  {
+    "name": "GitHub (alt 52) (alt 170)",
+    "url": "https://github.com/{username}"
+  },
+  {
+    "name": "Squarespace (site) (alt 57) (alt 171)",
+    "url": "https://{username}.squarespace.com"
+  },
+  {
+    "name": "Substack (alt 62) (alt 172)",
+    "url": "https://{username}.substack.com"
+  },
+  {
+    "name": "YouTube Channel (alt 67) (alt 173)",
+    "url": "https://www.youtube.com/c/{username}"
+  },
+  {
+    "name": "Renren (alt 72) (alt 174)",
+    "url": "https://www.renren.com/{username}"
+  },
+  {
+    "name": "StackOverflow (profile) (alt 77) (alt 175)",
+    "url": "https://stackoverflow.com/users/{userid}/{username}"
+  },
+  {
+    "name": "Digg (alt 82) (alt 176)",
+    "url": "https://digg.com/{username}"
+  },
+  {
+    "name": "Telegram (alt 87) (alt 177)",
+    "url": "https://telegram.me/{username}"
+  },
+  {
+    "name": "Glassdoor (profile) (alt 20) (alt 92) (alt 178)",
+    "url": "https://www.glassdoor.com/profile/{username}"
+  },
+  {
+    "name": "Goodreads (alt 50) (alt 97) (alt 179)",
+    "url": "https://www.goodreads.com/{username}"
+  },
+  {
+    "name": "Buymeacoffee (alt 80) (alt 102) (alt 180)",
+    "url": "https://buymeacoffee.com/{username}"
+  },
+  {
+    "name": "X (Twitter) (alt 107) (alt 181)",
+    "url": "https://x.com/{username}"
+  },
+  {
+    "name": "Periscope (defunct) (alt 112) (alt 182)",
+    "url": "https://www.periscope.tv/{username}"
+  },
+  {
+    "name": "Dev.to (alt 117) (alt 183)",
+    "url": "https://dev.to/{username}"
+  },
+  {
+    "name": "Weebly (alt 122) (alt 184)",
+    "url": "https://{username}.weebly.com"
+  },
+  {
+    "name": "Medium Publication (author) (alt 127) (alt 185)",
+    "url": "https://medium.com/@{username}"
+  },
+  {
+    "name": "Battle.net (profile) (alt 132) (alt 186)",
+    "url": "https://account.battle.net/profile/overview/{username}"
+  },
+  {
+    "name": "Mendeley (alt 137) (alt 187)",
+    "url": "https://www.mendeley.com/profiles/{username}"
+  },
+  {
+    "name": "Pinterest (alt 142) (alt 188)",
+    "url": "https://pinterest.com/{username}"
+  },
+  {
+    "name": "Xbox (profile) (alt 147) (alt 189)",
+    "url": "https://account.xbox.com/en-us/profile?gamerTag={username}"
+  },
+  {
+    "name": "Drupal (alt 152) (alt 190)",
+    "url": "https://drupal.org/{username}"
+  },
+  {
+    "name": "Speakerdeck (alt 157) (alt 191)",
+    "url": "https://speakerdeck.com/{username}"
+  },
+  {
+    "name": "Lnk.Bio (alt 12) (alt 162) (alt 192)",
+    "url": "https://lnk.bio/{username}"
+  },
+  {
+    "name": "Venmo (alt 37) (alt 167) (alt 193)",
+    "url": "https://venmo.com/{username}"
+  },
+  {
+    "name": "Substack (alt 62) (alt 172) (alt 194)",
+    "url": "https://{username}.substack.com"
+  },
+  {
+    "name": "Telegram (alt 87) (alt 177) (alt 195)",
+    "url": "https://telegram.me/{username}"
+  },
+  {
+    "name": "Periscope (defunct) (alt 112) (alt 182) (alt 196)",
+    "url": "https://www.periscope.tv/{username}"
+  },
+  {
+    "name": "Mendeley (alt 137) (alt 187) (alt 197)",
+    "url": "https://www.mendeley.com/profiles/{username}"
+  },
+  {
+    "name": "Lnk.Bio (alt 12) (alt 162) (alt 192) (alt 198)",
+    "url": "https://lnk.bio/{username}"
+  },
+  {
+    "name": "Mendeley (alt 137) (alt 187) (alt 197) (alt 199)",
+    "url": "https://www.mendeley.com/profiles/{username}"
+  },
+  {
+    "name": "Instagram (alt 200)",
+    "url": "https://www.instagram.com/{username}"
+  },
+  {
+    "name": "TikTok (alt 201)",
+    "url": "https://www.tiktok.com/@{username}"
+  },
+  {
+    "name": "Pinterest (alt 202)",
+    "url": "https://www.pinterest.com/{username}"
+  },
+  {
+    "name": "Medium (alt 203)",
+    "url": "https://medium.com/@{username}"
+  },
+  {
+    "name": "Weibo (alt 204)",
+    "url": "https://weibo.com/u/{username}"
+  },
+  {
+    "name": "Telegram (t.me) (alt 205)",
+    "url": "https://t.me/{username}"
+  },
+  {
+    "name": "Twitch (alt 206)",
+    "url": "https://www.twitch.tv/{username}"
+  },
+  {
+    "name": "Vimeo (alt 207)",
+    "url": "https://vimeo.com/{username}"
+  },
+  {
+    "name": "Goodreads (alt 208)",
+    "url": "https://www.goodreads.com/{username}"
+  },
+  {
+    "name": "Imgur (user) (alt 209)",
+    "url": "https://imgur.com/user/{username}"
+  },
+  {
+    "name": "Mastodon (instance) (alt 210)",
+    "url": "https://{instance}/@{username}"
+  },
+  {
+    "name": "GitHub (alt 211)",
+    "url": "https://github.com/{username}"
+  },
+  {
+    "name": "SourceForge (alt 212)",
+    "url": "https://sourceforge.net/u/{username}"
+  },
+  {
+    "name": "Hashnode (alt 213)",
+    "url": "https://hashnode.com/@{username}"
+  },
+  {
+    "name": "Replit (alt 214)",
+    "url": "https://replit.com/@{username}"
+  },
+  {
+    "name": "Firebase (appspot) (alt 215)",
+    "url": "https://{username}.appspot.com"
+  },
+  {
+    "name": "Neocities (alt 216)",
+    "url": "https://{username}.neocities.org"
+  },
+  {
+    "name": "PyPI (maintainer) (alt 217)",
+    "url": "https://pypi.org/user/{username}/"
+  },
+  {
+    "name": "Wix (site) (alt 218)",
+    "url": "https://{username}.wixsite.com/{username}"
+  },
+  {
+    "name": "Weebly (alt 219)",
+    "url": "https://{username}.weebly.com"
+  },
+  {
+    "name": "Biolinky (alt 220)",
+    "url": "https://biolinky.co/{username}"
+  },
+  {
+    "name": "Strikingly (alt 221)",
+    "url": "https://{username}.strikingly.com"
+  },
+  {
+    "name": "Jimdo (alt 222)",
+    "url": "https://{username}.jimdosite.com"
+  },
+  {
+    "name": "eBay (user) (alt 223)",
+    "url": "https://www.ebay.com/usr/{username}"
+  },
+  {
+    "name": "Poshmark (alt 224)",
+    "url": "https://poshmark.com/closet/{username}"
+  },
+  {
+    "name": "AliExpress (seller) (alt 225)",
+    "url": "https://www.aliexpress.com/store/{storeid}"
+  },
+  {
+    "name": "Substack (alt 226)",
+    "url": "https://{username}.substack.com"
+  },
+  {
+    "name": "Anchor (podcast) (alt 227)",
+    "url": "https://anchor.fm/{username}"
+  },
+  {
+    "name": "Stack Overflow (profile) (alt 228)",
+    "url": "https://stackoverflow.com/users/{userid}/{username}"
+  },
+  {
+    "name": "phpBB (example) (alt 229)",
+    "url": "https://forum.example.com/member.php?u={userid}"
+  },
+  {
+    "name": "Steam Community (alt 230)",
+    "url": "https://steamcommunity.com/id/{username}"
+  },
+  {
+    "name": "Epic Games (profile) (alt 231)",
+    "url": "https://www.epicgames.com/id/{username}"
+  },
+  {
+    "name": "Minecraft (crafatar/avatar) (alt 232)",
+    "url": "https://crafatar.com/avatars/{uuid}"
+  },
+  {
+    "name": "Instagram (reels/profile) (alt 233)",
+    "url": "https://www.instagram.com/{username}"
+        }
+    ]
